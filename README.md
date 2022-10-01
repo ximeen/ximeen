@@ -15,7 +15,7 @@
  ## 
 
 <div>
-      <img height="180em" card_width=20 src="https://github-readme-stats.vercel.app/api?username=ximeen&show_icons=true&include_all_commits=true&count_private=true"/>
+      <img height="180em" card_width=120 src="https://github-readme-stats.vercel.app/api?username=ximeen&show_icons=true&include_all_commits=true&count_private=true"/>
       <img height="120em" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximeen&langs_count=7"/>
 </div>
   
