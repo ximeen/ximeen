@@ -15,9 +15,12 @@
  ## 
 
 <div>
-  <a href="https://beacons.ai/ximeen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ximeen&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximeen&langs_count=7"/>
+      <div>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ximeen&show_icons=true&include_all_commits=true&count_private=true"/>
+      </div>
+      <div>
+            <img height="200em" width="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ximeen&langs_count=7"/>
+      </div>
 </div>
   
      
