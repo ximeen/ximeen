@@ -8,7 +8,7 @@
 <!-- APRESENTAÇÃO  -->
 <p>
   <em>
-  Minha stack principal é <b>Front end</b> mas estudando e desenvolvendo minhas habilidades em <b> Back end </> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  Minha stack principal é <b>Front end</b>, mas estudando e desenvolvendo minhas habilidades em <b> Back end </> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
     Com cerca de <b>1 ano e meio de experiencia em desenvolvimento</b>
     Em busca de um ambiente agradavel para desenvolver ainda mais minhas habilidades :)
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
