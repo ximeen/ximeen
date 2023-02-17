@@ -8,16 +8,17 @@
 <!-- APRESENTAÇÃO  -->
 <p>
   <em>
-  Sou <b>Desenvolvedor Web e Back End</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-    Com cerca de <b>1 ano e meio de experiencia em desenvolvimento</b> buscando sempre evoluir, melhorando minhas hard skills e soft skills
-    <b>developer.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  Minha stack principal é <b>Front end</b> mas estudando e desenvolvendo minhas habilidades em <b> Back end </> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Com cerca de <b>1 ano e meio de experiencia em desenvolvimento</b>
+    Em busca de um ambiente agradavel para desenvolver ainda mais minhas habilidades :)
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
 <!-- CONTATOS -->
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+#Meus contatos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/gabriel-ximenes-350168211/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/ximeen) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:gabriximenes100@gmail.com)
 |:---:|:---:|:---:|
