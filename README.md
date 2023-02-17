@@ -8,9 +8,8 @@
 <!-- APRESENTAÇÃO  -->
 <p>
   <em>
-    A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Junior Backend Developer,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b> company</b> to 
-    <b> help me</b> grow as a  
+  Sou <b>Desenvolvedor Web e Back End</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Com cerca de <b>1 ano e meio de experiencia em desenvolvimento</b> buscando sempre evoluir, melhorando minhas hard skills e soft skills
     <b>developer.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
