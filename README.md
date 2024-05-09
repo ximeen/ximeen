@@ -5,7 +5,7 @@
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Web%20Developer;2+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
 
 <!-- APRESENTAÇÃO  -->
-  <p>Estudando backend com java docker e Banco de dados em Postgres, conhecimento aprofudando em React e typescript.</p>
+  <p>Estudando backend com Java SpringBoot, Docker e Banco de dados em Postgres, expertise em React/NextJs, Javascript e Typescript.</p>
   
 <!-- CONTATOS -->
 
